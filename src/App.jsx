@@ -21,7 +21,10 @@ const projects = [
     title: "Weather",
     link: "weather-nu-beryl.vercel.app",
   },
-
+{
+    title: "pomodoro_timer",
+    link: "project-hub-5ys7.vercel.app",
+  },
 ];
 
 function App() {
