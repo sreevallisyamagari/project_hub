@@ -23,7 +23,7 @@ const projects = [
   },
 {
     title: "pomodoro_timer",
-    link: "project-hub-5ys7.vercel.app",
+    link: "pomodoro-timer-rouge-iota.vercel.app",
   },
 ];
 
