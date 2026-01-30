@@ -23,7 +23,7 @@ const projects = [
   },
 {
     title: "pomodoro_timer",
-    link: "pomodoro-timer-rouge-iota.vercel.app",
+    link: "https://sreevallisyamagari.github.io/pomodoro_timer",
   },
 ];
 
