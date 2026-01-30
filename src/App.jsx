@@ -3,7 +3,6 @@ import './App.css';
 const projects = [
   {
     title: "Protfolio",
-    description: "My portfolio",
     link: "https://sreevallisyamagari.github.io/sreevalli-portfolio/",
   },
   {
