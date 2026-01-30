@@ -19,7 +19,7 @@ const projects = [
   },
 {
     title: "Weather",
-    link: "weather-nu-beryl.vercel.app",
+    link: "https://weather-nu-beryl.vercel.app",
   },
 {
     title: "pomodoro_timer",
