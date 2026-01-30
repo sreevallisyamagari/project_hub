@@ -8,19 +8,21 @@ const projects = [
   },
   {
     title: "Counter-App",
-    description: "Simple Counter app for Increment and Decrement",
     link: "https://sreevallisyamagari.github.io/sreevalli-counter/",
   },
   {
     title: "Calculator",
-    description: "Simple calculator using React",
     link: "https://sreevallisyamagari.github.io/sreevalli-calculator_app/",
   },
   {
     title: "Digital Clock",
-    description: "Time and Date",
     link: "https://sreevallisyamagari.github.io/Digital_clock/",
   },
+{
+    title: "Weather",
+    link: "weather-nu-beryl.vercel.app",
+  },
+
 ];
 
 function App() {
